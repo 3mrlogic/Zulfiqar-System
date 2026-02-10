@@ -41,5 +41,10 @@ This project contains:
 * `style.css`: Stylesheet containing all visual effects and animations.
 * `script.js`: Logic for horror elements, audio triggers, and element interactivity.
 
+## 🌐 Live Demo
+
+**Experience the horror directly in your browser:**
+[Click here to start the ritual](https://amori777.github.io/Zulfiqar-System/)
+
 ---
 *Developed by **3mrlogic** to examine your brain cells... Bad luck.* 🩸
